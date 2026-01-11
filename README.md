@@ -28,3 +28,6 @@ dashboard that provides clear business insights.
 ## 📚 Learning Outcome
 - Hands-on experience with Tableau dashboards
 - Improved data storytelling and visualization skills
+
+## 📸 Dashboard Preview
+![Tableau Dashboard](screenshots/Dashboard Screenshot.png)
