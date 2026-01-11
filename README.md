@@ -30,4 +30,5 @@ dashboard that provides clear business insights.
 - Improved data storytelling and visualization skills
 
 ## 📸 Dashboard Preview
-![Tableau Dashboard](screenshots/Dashboard Screenshot.png)
+![Tableau Dashboard](screenshots/Dashboard%20Screenshot.png)
+
